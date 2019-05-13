@@ -1,2 +1,2 @@
-# vringar.github.com
+# vringar.github.io
 My  Github Page
